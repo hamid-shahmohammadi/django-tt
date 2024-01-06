@@ -7,3 +7,8 @@ django-admin startproject pr .
 
 python manage.py runserver 9000
 ```
+## django startpp
+```
+ctrl + shift + p
+python manage.py startapp app
+```
