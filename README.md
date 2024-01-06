@@ -11,4 +11,5 @@ python manage.py runserver 9000
 ```
 ctrl + shift + p
 python manage.py startapp app
+setting add app 
 ```
